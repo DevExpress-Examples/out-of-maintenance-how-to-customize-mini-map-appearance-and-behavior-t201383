@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MiniMapParameters/Form1.cs) (VB: [Form1.vb](./VB/MiniMapParameters/Form1.vb))
+* [Program.cs](./CS/MiniMapParameters/Program.cs) (VB: [Program.vb](./VB/MiniMapParameters/Program.vb))
+<!-- default file list end -->
 # How to customize mini map appearance and behavior
 
 
